@@ -6,4 +6,4 @@ alert(firstHref);
 function getPageHTML(){
 	return "<html>" + $("html").html() + "</html>";
 }
-console.log("getPageHTML");
+console.log(getPageHTML);
