@@ -9,7 +9,7 @@
     "matches": [
       "https://news.google.com/news/*","http://news.google.com/news/*"
     ],
-    "js": ["content.js","jQuery_3.2.1_compressed.js"]
+    "js": ["jquery-3.2.1.js","content.js"]
   }
 ]
 }
